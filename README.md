@@ -1,4 +1,4 @@
-# JavaSudoku
+# Java Sudoku Desktop Game
 
 This repo contains sudoku game desktop version that developed by using javaFX
 
