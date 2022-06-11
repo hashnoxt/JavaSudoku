@@ -7,3 +7,5 @@ How to play:
 *Install Intellij idea, VS code or any other IDE
 
 *Clone the repository 
+
+*Run Main.java and play...
