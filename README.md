@@ -8,4 +8,4 @@ How to play:
 
 *Clone the repository 
 
-*<strong>Run Main.java and play...</strong>
+*<strong>Run Main.java (src > Main.java) and play...</strong>
