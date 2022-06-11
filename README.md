@@ -8,7 +8,7 @@ How to play:
 
 *Install jdk 11 or newer version
 
-*Install javaFx;
+*Install javaFx
 
 *Setup JavaFx project
 
