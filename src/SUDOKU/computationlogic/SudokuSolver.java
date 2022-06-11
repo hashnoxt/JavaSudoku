@@ -1,8 +1,8 @@
 package SUDOKU.computationlogic;
 
-import SUDOKU.problemdomain.Coordinates;
+import SUDOKU.problem.Coordinates;
 
-import static SUDOKU.problemdomain.SudokuGame.GRID_BOUNDARY;
+import static SUDOKU.problem.SudokuGame.GRID_BOUNDARY;
 
 /**
  * Note: Algorithm based on "Simple Solving Algorithm" from the link below. I will look at more complex and efficient

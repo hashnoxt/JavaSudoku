@@ -1,8 +1,8 @@
 package SUDOKU.userinterface;
 
 import SUDOKU.constants.GameState;
-import SUDOKU.problemdomain.Coordinates;
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.Coordinates;
+import SUDOKU.problem.SudokuGame;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
 import javafx.scene.Group;

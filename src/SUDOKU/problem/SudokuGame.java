@@ -1,4 +1,4 @@
-package SUDOKU.problemdomain;
+package SUDOKU.problem;
 
 import SUDOKU.computationlogic.SudokuUtilities;
 import SUDOKU.constants.GameState;

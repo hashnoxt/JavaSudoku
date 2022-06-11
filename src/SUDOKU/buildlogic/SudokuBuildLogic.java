@@ -2,8 +2,8 @@ package SUDOKU.buildlogic;
 
 import SUDOKU.computationlogic.GameLogic;
 import SUDOKU.persistence.LocalStorageImpl;
-import SUDOKU.problemdomain.IStorage;
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.IStorage;
+import SUDOKU.problem.SudokuGame;
 import SUDOKU.userinterface.IUserInterfaceContract;
 import SUDOKU.userinterface.logic.ControlLogic;
 

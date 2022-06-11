@@ -1,7 +1,7 @@
 package SUDOKU.persistence;
 
-import SUDOKU.problemdomain.IStorage;
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.IStorage;
+import SUDOKU.problem.SudokuGame;
 
 import java.io.*;
 

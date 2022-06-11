@@ -1,6 +1,6 @@
 package SUDOKU.userinterface;
 
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.SudokuGame;
 
 /**
  * Contract is really just another word for interface, which is another word for a Protocol.

@@ -4,11 +4,11 @@ package SUDOKU.computationlogic;
 
 import SUDOKU.constants.GameState;
 import SUDOKU.constants.Rows;
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.SudokuGame;
 
 import java.util.*;
 
-import static SUDOKU.problemdomain.SudokuGame.GRID_BOUNDARY;
+import static SUDOKU.problem.SudokuGame.GRID_BOUNDARY;
 
 /**
  * Q: Why isn't this a class hidden behind an interface?

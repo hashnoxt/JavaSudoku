@@ -1,4 +1,4 @@
-package SUDOKU.problemdomain;
+package SUDOKU.problem;
 
 import java.io.IOException;
 

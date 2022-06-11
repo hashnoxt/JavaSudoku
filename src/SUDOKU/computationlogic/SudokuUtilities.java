@@ -1,6 +1,6 @@
 package SUDOKU.computationlogic;
 
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.SudokuGame;
 
 public class SudokuUtilities {
 

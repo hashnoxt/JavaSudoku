@@ -1,12 +1,12 @@
 package SUDOKU.computationlogic;
 
-import SUDOKU.problemdomain.Coordinates;
+import SUDOKU.problem.Coordinates;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static SUDOKU.problemdomain.SudokuGame.GRID_BOUNDARY;
+import static SUDOKU.problem.SudokuGame.GRID_BOUNDARY;
 
 
 class GameGenerator {

@@ -4,8 +4,8 @@ package SUDOKU.userinterface.logic;
 import SUDOKU.computationlogic.GameLogic;
 import SUDOKU.constants.GameState;
 import SUDOKU.constants.Messages;
-import SUDOKU.problemdomain.IStorage;
-import SUDOKU.problemdomain.SudokuGame;
+import SUDOKU.problem.IStorage;
+import SUDOKU.problem.SudokuGame;
 import SUDOKU.userinterface.IUserInterfaceContract;
 
 import java.io.IOException;
