@@ -1,8 +1,8 @@
-package sudoku;
+package SUDOKU;
+
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         SudokuApplication.main(new String[]{});
-
     }
 }

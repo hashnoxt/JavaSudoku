@@ -1,4 +1,4 @@
-package sudoku.constants;
+package SUDOKU.constants;
 
 public enum GameState {
     COMPLETE,
