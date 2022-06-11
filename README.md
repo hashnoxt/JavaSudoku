@@ -15,3 +15,5 @@ How to play:
 *Clone the repository 
 
 *<strong>Run Main.java (src > Main.java) and play...</strong>
+
+Tutorial <link>https://www.youtube.com/watch?v=qH9mWpYMtYU</link>
